@@ -33,7 +33,7 @@ This repository contains all three completed tasks from the internship, along wi
 
 **Letsie Molapo**  
 Email: molapoletsie0@gmail.com 
-LinkedIn: [your LinkedIn profile link]
+LinkedIn:www.linkedin.com/in/letsie-molapo
 
 Thank you to **Codveda Technologies** for this enriching learning experience!  
 #Codveda #DataAnalysis #Python #Internship #Portfolio
